@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pandas = "*"
 calplot = "*"
+streamlit = "*"
+plotly = "*"
+streamlit-echarts = "*"
 
 [dev-packages]
 
