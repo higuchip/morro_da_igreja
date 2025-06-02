@@ -5,3 +5,4 @@ matplotlib
 streamlit
 Pillow
 plotly
+bleach>=5.0.1
